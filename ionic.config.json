@@ -1,0 +1,7 @@
+{
+  "name": "turn-based-rpg",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
